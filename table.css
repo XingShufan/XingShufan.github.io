@@ -1,0 +1,20 @@
+table,th,td{
+	border:1px solid blue;
+	border-collapse:collapse
+	text-align: center;
+}
+td{
+	text-align: center;
+}
+th{
+	background-color: blue
+}
+td{
+	background-color: grey
+}
+.grey{
+    background-color: lightgrey;
+}
+table{
+	width: 100%;
+}
